@@ -15,10 +15,10 @@ dependencies {
     "implementation"(project(":nuvotifier-api"))
     "implementation"(project(":nuvotifier-common"))
     "implementation"(project(":nuvotifier-bukkit"))
-    "implementation"(project(":nuvotifier-bungeecord"))
-    "implementation"(project(":nuvotifier-sponge"))
-    "implementation"(project(":nuvotifier-fabric"))
-    "implementation"(project(":nuvotifier-velocity"))
+    //"implementation"(project(":nuvotifier-bungeecord"))
+    //"implementation"(project(":nuvotifier-sponge"))
+    //"implementation"(project(":nuvotifier-fabric"))
+    //"implementation"(project(":nuvotifier-velocity"))
 }
 
 tasks.named<Jar>("jar") {

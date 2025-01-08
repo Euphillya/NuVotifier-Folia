@@ -1,7 +1,7 @@
 import org.ajoberstar.grgit.Grgit
 
 plugins {
-    id("net.kyori.blossom") version "1.2.0" apply false
+    id("net.kyori.blossom") version "2.1.0" apply false
 }
 
 logger.lifecycle("""
